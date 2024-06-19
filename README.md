@@ -4,6 +4,8 @@
 [![GitHub Badge](https://img.shields.io/badge/GitHub-hChauhan4862-black?style=flat&logo=github)](https://github.com/hChauhan4862/)
 [![Email Badge](https://img.shields.io/badge/Email-hChauhan4862@gmail.com-red?style=flat&logo=gmail)](mailto:hChauhan4862@gmail.com)
 
+<a href="https://stackexchange.com/users/9126577"><img src="https://stackexchange.com/users/flair/9126577.png" width="208" height="58" alt="profile for Harendra Chauhan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Harendra Chauhan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 Welcome to my  🚀 GitHub! I'm passionate about leveraging technology to solve real-world problems and am currently focused on advancing my skills through web development and desktop projects.
 
 <div align="center">
