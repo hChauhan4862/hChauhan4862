@@ -6,6 +6,10 @@
 
 <a href="https://stackexchange.com/users/9126577"><img src="https://stackexchange.com/users/flair/9126577.png?" width="208" height="58" alt="profile for Harendra Chauhan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Harendra Chauhan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
+<br>
+<img src="https://komarev.com/ghpvc/?username=anujsingh0308&color=blueviolet">
+<br />
+
 Welcome to my  🚀 GitHub! I'm passionate about leveraging technology to solve real-world problems and am currently focused on advancing my skills through web development and desktop projects.
 
 <div align="center">
