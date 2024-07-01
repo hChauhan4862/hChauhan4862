@@ -18,7 +18,7 @@ Welcome to my  🚀 GitHub! I'm passionate about leveraging technology to solve 
 * 🤔 Hand on experience and developing application with using JavaScript, GoLang, Python and PHP.
 * 💬 Always up for a chat about tech, or anything under the sun!
 * 📫 Reach out via [email](mailto:hChauhan4862@gmail.com) for collaboration or queries.
-* 📝 Dive deeper into my journey through my [Curriculum Vitae](https://drive.google.com/file/d/1-N_XUErOuna8_mDQ4M_iiSFpZs8SZzGr/view?usp=sharing){:target="_blank" rel="noopener"}.
+* 📝 Dive deeper into my journey through my [Curriculum Vitae](https://drive.google.com/file/d/1-N_XUErOuna8_mDQ4M_iiSFpZs8SZzGr/view?usp=sharing).
 
 ## Skills
 ### Technical Skills:
