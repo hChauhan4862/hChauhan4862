@@ -13,7 +13,7 @@ Welcome to my  🚀 GitHub! I'm passionate about leveraging technology to solve 
 ## About Me!
 
 * 👨🏽‍💻 I completed my B.Tech in Information Technology from Ajay Kumar Garg Engineering College, Ghaziabad.
-* 👨🏽‍💻 Currently working as Backend Developer at <a href="https://wiseneoscoindia.com/" target="_blank">Wise Neosco India PVT LTD</a>.
+<!-- * 👨🏽‍💻 Currently working as Backend Developer at <a href="https://wiseneoscoindia.com/" target="_blank">Wise Neosco India PVT LTD</a>. -->
 * 🌱 Currently advancing in Backend Development Releted Projects.
 * 🤔 Hand on experience and developing application with using JavaScript, GoLang, Python and PHP.
 * 💬 Always up for a chat about tech, or anything under the sun!
